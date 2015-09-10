@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "AccountDb": {
+    "host": "us-cdbr-iron-east-02.cleardb.net",
+    "port": 3306,
+    "database": "ad_fdacd88b3e5def6",
+    "password": "36c9c12c",
+    "name": "AccountDb",
+    "user": "bc8c074e6bb53d",
+    "connector": "mysql"
+  }
+}

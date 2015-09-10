@@ -1,0 +1,10 @@
+applications:
+- services:
+  - ClearDB MySQL Database-gw
+  disk_quota: 1024M
+  host: Omsairamfinal
+  name: Omsairamfinal
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 256M
